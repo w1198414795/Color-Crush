@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
-
-public class BoxCenterControl : MonoBehaviour
+//github branch test
+public class BoxCenterControl : MonoBehaviour 
 {
     public Color32[] colorStorage;
     public SpriteRenderer[] sp;
